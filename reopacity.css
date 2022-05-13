@@ -1,0 +1,18 @@
+body{
+background-color: pink;
+fontsize: 20px;
+}
+.box{
+font-size: 1.2rem;
+width: 400px;
+padding: 1rem;
+margin: 1rem;
+border: 3px solid #333;
+}
+img {
+  opacity: 0.5;
+}
+
+img:hover {
+  opacity: 1.0;
+}

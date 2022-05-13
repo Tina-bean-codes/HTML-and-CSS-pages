@@ -1,0 +1,12 @@
+/*Body background color set using  HEX code*/
+body {background-color: #ffa500;}
+/*Body text align set to center*/
+body {text-align: center;}
+
+/*Main heading font and background colors set using names*/
+h1 {color:white;}
+h1 {background-color:deepskyblue;}
+
+/*Used RGB values for paragraph with a class*/
+p.ex {color:rgb(255,255,255);}
+p.ex {background-color:rgb(0,112,192);}
